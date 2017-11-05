@@ -11,9 +11,7 @@ public class Main {
         int mr= sc.nextInt();
         int mb= sc.nextInt();
         int ml= sc.nextInt();
-     
         int mno= sc.nextInt();
-        
         int d=4;
         
         for(int i=0;i<=mno;i++){
